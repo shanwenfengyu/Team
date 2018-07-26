@@ -12,7 +12,7 @@ import com.lanou.service.UserService;
 
 @Controller
 public class UserController {
-	// 我自己改
+	// 改回来
 	@RequestMapping(value="login")
 	public String findAll(Model model) {
 
